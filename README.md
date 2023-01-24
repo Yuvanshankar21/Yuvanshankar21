@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yuvanshankar
 - 👀 I’m interested in software developer role
-- 🌱 I’m currently learning python and django
+- 🌱 COmpleted python and django
+- currently Working in Spring boot and Angular
 
 <!---
 Yuvanshankar21/Yuvanshankar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
